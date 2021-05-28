@@ -118,3 +118,11 @@ body{
 .column-undertext h3{
     margin-bottom: 15px;
 }
+/* Footer */
+#footer-text{
+    text-align: center;
+}
+
+ #heart-entity{
+    color: red;
+}
