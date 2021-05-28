@@ -66,6 +66,7 @@ body{
     font-weight: 400;
     margin-bottom: 50px;
 }
+/* column */
 
 .column-container .side-column{
     width: 25%;
@@ -95,5 +96,6 @@ body{
 .side-column .rightcolumn-image{
     height: 150px;
     background-image: url(../img/img/img-3.jpg);
-
 }
+/* text section */
+
