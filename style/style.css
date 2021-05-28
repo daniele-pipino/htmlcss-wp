@@ -37,7 +37,7 @@ body{
 }
 /* main */
 
-/* .top-main .mainbox{
+.top-main .mainbox{
     border-radius: 10px;
     height: 550px;
     background-image: url(../img/img/banner.jpg);
@@ -92,4 +92,4 @@ body{
 .center-column .centercolumn-image{
     height: 150px;
     background-image: url(../img/img/banner-2.jpg);
-} */
+}
